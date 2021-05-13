@@ -1,6 +1,6 @@
 # **Time management software/green-time**
 
-user by using this sofware's calender can manage his time and tasks in an efficient way
+user by using this sofware's calendar can manage his time and tasks in an efficient way
 
 also it provides a place for writing his notes and lists 
 
@@ -10,18 +10,18 @@ this software provide a group board which allow multiple users to share group ta
 
 
 ## this software has four parts:
-* calender and tasks
+* calendar and tasks
 * notes
 * personal board
 * group board
 
 
 
-### calender
+### calendar
 
-the calender shows date
+the calendar shows date
 
-user can write his tasks then he can place them in the calender
+user can write his tasks then he can place them in the calendar
 
 a note can be attached to specific task 
 
