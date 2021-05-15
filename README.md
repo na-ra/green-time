@@ -50,9 +50,9 @@ user can pin or unpin his tasks or notes also he can change task's place base on
 users that have eachother account's id can share tasks and notes also each user can create,edit,delete tasks or pin them in their personal board
 
 
-| نام و نام خانوادگی | مسئولیت  | آیدی |
+| Name and last name | Responsibility  | Id |
 |--------------------|----------|------|
-|   نرگس رفیعی زاده |          |      |
+|   Narges Rafiee Zadeh |  Responsibility  | na-ra|
 |                    |          |      |
-|                    |          |      |
+
 
