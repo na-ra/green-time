@@ -15,12 +15,21 @@ this software provide a group board which allow multiple users to share group ta
 
 ## Requirements
 ### Functional Requierements
+1. managing todo list in calandar for each day 
+  
+2. notes and list management
+ 
+3. sharing notes with group
 
 ### Non-Functional Requierements
+1. after passing dates the notes wich has attached to that date, will change color
+2. users can set numbers to notes base on the priority of that note
+3. the application can export notes
 
 
 ## Documentations
-### 
+* project scenario:
+* project Requierements:
 ### Project analysis and design
 ### Project Management
 
@@ -28,7 +37,7 @@ this software provide a group board which allow multiple users to share group ta
 
 | Name and last name | Responsibility  | Id |
 |--------------------|----------|------|
-|   Narges Rafiee Zadeh |  Responsibility  | na-ra|
+|   Narges Rafiee Zadeh |  project manager  | na-ra|
 
 
 
