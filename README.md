@@ -28,8 +28,8 @@ this software provide a group board which allow multiple users to share group ta
 
 
 ## Documentations
-* project scenario:
-* project Requierements:
+* project scenario: https://github.com/na-ra/green-time/blob/f1535866d98f66363dcbb72973f12905b0468194/documentation/Scenario
+* project Requierements: https://github.com/na-ra/green-time/blob/85f984db00b45c56c47bf7bfe818cf1b0a8e603e/documentation/Requirements
 ### Project analysis and design
 ### Project Management
 
