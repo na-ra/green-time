@@ -40,7 +40,7 @@ this software provide a group board which allow multiple users to share group ta
 
 | Name and last name | Responsibility  | Id |
 |--------------------|----------|------|
-|   Narges Rafiee Zadeh |  project manager  | @ na-ra |
+|   Narges Rafiee Zadeh |  project manager  | @na-ra |
 
 
 
