@@ -23,8 +23,9 @@ this software provide a group board which allow multiple users to share group ta
 
 ### Non-Functional Requierements
 1. after passing dates the notes wich has attached to that date, will change color
-2. users can set numbers to notes base on the priority of that note
-3. the application can export notes
+2. the application can export notes
+3. users can set picture for their accounts and it will be shown upright side of the application
+
 
 
 ## Documentations
