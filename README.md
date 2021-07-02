@@ -36,7 +36,8 @@ this software provide a group board which allow multiple users to share group ta
 * project Requierements: [link](https://github.com/na-ra/green-time/blob/85f984db00b45c56c47bf7bfe818cf1b0a8e603e/documentation/Requirements)
 
 ### Project analysis and design
-* usecase diagram: [link](https://github.com/na-ra/green-time/blob/c879c512a5465aa11d3db74465371f543f354680/documentation/Use-case%20Diagram.jpg)
+* Usecase diagram: [link](https://github.com/na-ra/green-time/blob/c879c512a5465aa11d3db74465371f543f354680/documentation/Use-case%20Diagram.jpg)
+* Class diagram:[link](https://github.com/na-ra/green-time/blob/main/documentation/Class%20Diagram.jpg)
 ### Project Management
 
 **Project code:** `G12`
